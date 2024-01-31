@@ -192,8 +192,7 @@
         padding: 10px;
         font-size: 11px;
         border-radius: 5px;
-        margin-bottom: 20px;
-        border: 1px solid #666;
+        margin-bottom: 15px;
     }
 
     input[type="password"] {
@@ -201,8 +200,7 @@
         padding: 10px;
         font-size: 11px;
         border-radius: 5px;
-        margin-bottom: 20px;
-        border: 1px solid #666;
+        margin-bottom: 15px;
     }
     
     button[type="submit"] {
